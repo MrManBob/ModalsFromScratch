@@ -8,4 +8,4 @@ another linear regression modal but it works with multiple features (with update
 logisitc regession modal that implements gradient descent with regularization(addressing overfitting). The code also implements feature scalling, vectorazation, test to see if gradient descent will converge, and plotting the decision boundry. 
 
 ## ForwardProgNeuralNetwork 
-Basic implementation of a neural network. Implementation a forward propagation algorithm and untilzes vectorization.
+Basic implementation of a neural network. Implementation of a forward propagation algorithm and untilzes vectorization.
