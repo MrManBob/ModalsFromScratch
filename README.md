@@ -9,3 +9,4 @@ logisitc regession modal that implements gradient descent with regularization(ad
 
 ## ForwardProgNeuralNetwork 
 Basic implementation of a neural network. Implementation of a forward propagation algorithm and untilzes vectorization.
+The idea being it runs many different dense function or 'neurons' with different W and b values, through different layers.
